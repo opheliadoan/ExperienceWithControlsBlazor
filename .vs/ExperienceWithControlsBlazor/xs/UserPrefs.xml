@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{BF8F120D-BFBA-40A8-8FB3-592A8F418BEC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExperienceWithControlsBlazor/Shared/NavMenu.razor">
+    <Files>
+      <File FileName="ExperienceWithControlsBlazor/wwwroot/index.html" Line="7" Column="36" />
+      <File FileName="ExperienceWithControlsBlazor/Shared/NavMenu.razor" Line="2" Column="53" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExperienceWithControlsBlazor" expanded="True">
+            <Node name="ExperienceWithControlsBlazor" expanded="True">
+              <Node name="Pages" expanded="True" />
+              <Node name="Shared" expanded="True">
+                <Node name="NavMenu.razor" selected="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ExperienceWithControlsBlazor FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
