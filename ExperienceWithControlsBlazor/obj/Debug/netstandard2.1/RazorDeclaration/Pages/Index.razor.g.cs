@@ -84,13 +84,26 @@ using ExperienceWithControlsBlazor.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 22 "/Users/phuonganhdoan/Projects/ExperienceWithControlsBlazor/ExperienceWithControlsBlazor/Pages/Index.razor"
+#line 44 "/Users/phuonganhdoan/Projects/ExperienceWithControlsBlazor/ExperienceWithControlsBlazor/Pages/Index.razor"
       
     private string DisplayValue = "";
 
     private void UpdateValue(ChangeEventArgs e)
     {
         DisplayValue = e.Value.ToString();
+    }
+
+    private void UpdateNumericValue(ChangeEventArgs e)
+    {
+        if(int.TryParse(e.Value.ToString(), out int result))
+        {
+            DisplayValue = e.Value.ToString();
+        }
+    }
+
+    private void ButtonClick(string valueToDisplay)
+    {
+        DisplayValue = valueToDisplay;
     }
 
 #line default

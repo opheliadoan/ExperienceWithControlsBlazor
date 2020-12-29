@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/_qwkTccc1gDeexJeEPMwJn2UhdRs46SMgmqb38df1Fg=.hash",
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/zXUZ85OUkH9MCfjMt111rBt8hHEloWDYIY5RIt1RpTQ=.hash",
       "Source": "\/Users\/phuonganhdoan\/Projects\/ExperienceWithControlsBlazor\/ExperienceWithControlsBlazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/ExperienceWithControlsBlazor.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/ExperienceWithControlsBlazor.dll.br"
     },
@@ -256,7 +256,7 @@
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.br"
     },
     {
-      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/BuBLIswXrGH-7Xn5x6Ev50Iq8dnheOwS2acgTvrEzms=.hash",
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/L-gq58Bwxe1DpBJNbhHW8bya1mKRyVg_pBZUC75yTAc=.hash",
       "Source": "\/Users\/phuonganhdoan\/Projects\/ExperienceWithControlsBlazor\/ExperienceWithControlsBlazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/ExperienceWithControlsBlazor.pdb",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/ExperienceWithControlsBlazor.pdb.br"
     },
@@ -281,7 +281,7 @@
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/blazor.webassembly.js.br"
     },
     {
-      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/sfSZjDvPhLmgDr0OQ5c8ZsNKIvGSB7grcODZ8YpbMkg=.hash",
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/f-lfAmD80eW9Mxo3HX6AsVMCBtYr-2Vf8TyFriZyOpQ=.hash",
       "Source": "\/Users\/phuonganhdoan\/Projects\/ExperienceWithControlsBlazor\/ExperienceWithControlsBlazor\/obj\/Debug\/netstandard2.1\/blazor\/blazor.boot.json",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/blazor.boot.json.br"
     }
