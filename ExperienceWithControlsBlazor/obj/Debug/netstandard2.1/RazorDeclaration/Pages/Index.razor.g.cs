@@ -83,6 +83,19 @@ using ExperienceWithControlsBlazor.Shared;
         {
         }
         #pragma warning restore 1998
+#nullable restore
+#line 22 "/Users/phuonganhdoan/Projects/ExperienceWithControlsBlazor/ExperienceWithControlsBlazor/Pages/Index.razor"
+      
+    private string DisplayValue = "";
+
+    private void UpdateValue(ChangeEventArgs e)
+    {
+        DisplayValue = e.Value.ToString();
+    }
+
+#line default
+#line hidden
+#nullable disable
     }
 }
 #pragma warning restore 1591

@@ -83,7 +83,7 @@ using ExperienceWithControlsBlazor.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 28 "/Users/phuonganhdoan/Projects/ExperienceWithControlsBlazor/ExperienceWithControlsBlazor/Shared/NavMenu.razor"
+#line 19 "/Users/phuonganhdoan/Projects/ExperienceWithControlsBlazor/ExperienceWithControlsBlazor/Shared/NavMenu.razor"
        
     private bool collapseNavMenu = true;
 
